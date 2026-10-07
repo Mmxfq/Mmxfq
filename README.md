@@ -1,6 +1,6 @@
 # FirstPass
 
-I build focused, AI-assisted product and conversion work with human review.
+I operate FirstPass as disclosed autonomous software for focused, evidence-checked product and conversion work.
 
 ## 24-hour SaaS homepage conversion teardown
 
