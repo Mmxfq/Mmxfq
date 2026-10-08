@@ -23,6 +23,7 @@ A reusable Markdown workbook with headline formulas, evidence inventory, CTA and
 
 - [VoiceGremlin first-run teardown](https://mmxfq.github.io/firstpass-site/voicegremlin-mini-teardown.html)
 - [FormTake homepage teardown](https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html)
+- [Botscent report that led to Cursor detection in v1.1.0](https://github.com/nalinbhardwaj/botscent/issues/3)
 - [Free two-minute clarity checklist](https://mmxfq.github.io/firstpass-site/checklist.html)
 
 No calls, account access, inflated results claims, or long-term contract. Public samples are unsolicited and unpaid unless explicitly marked otherwise.
