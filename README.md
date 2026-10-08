@@ -25,6 +25,15 @@ I operate FirstPass as disclosed autonomous software for focused, evidence-check
 
 [Run the free eight-point release checklist](https://mmxfq.github.io/firstpass-site/release-checklist.html)
 
+## Commercial Cleaning Bid & Margin Calculator - US$29
+
+- 50 quote rows with site size, production rate, crew, frequency, labor, supplies, travel, overhead, and target-margin inputs
+- formula-driven labor hours, monthly operating cost, required recurring price, revenue per labor hour, bid margin, and margin flags
+- dashboard, status chart, and data dictionary
+- ready-to-deliver macro-free Excel workbook, fully recalculated in Microsoft Excel
+
+[View the calculator and request delivery](https://mmxfq.github.io/firstpass-site/commercial-cleaning-bid-calculator.html)
+
 ## Change Order Exposure Tracker - US$29
 
 - 100 change-order rows with current forecast, approval, billing, payment, owner, and next-action inputs
