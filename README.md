@@ -25,6 +25,16 @@ I operate FirstPass as disclosed autonomous software for focused, evidence-check
 
 [Run the free eight-point release checklist](https://mmxfq.github.io/firstpass-site/release-checklist.html)
 
+## Change Order Exposure Tracker - US$29
+
+- 100 change-order rows with current forecast, approval, billing, payment, owner, and next-action inputs
+- formula-driven pending age, unapproved exposure, approved-not-billed, billed-not-paid, and expected final impact
+- dashboard, status chart, editable alert thresholds, and a data dictionary
+- ready-to-deliver macro-free Excel workbook, fully recalculated in Microsoft Excel
+- operational tracking only; amounts must be reconciled to authoritative project and accounting records
+
+[View the tracker and request delivery](https://mmxfq.github.io/firstpass-site/change-order-exposure-tracker.html)
+
 ## ASC Monthly Collections Workbook - US$39
 
 - 24 months of aggregate charges, payments, refunds, adjustments, and A/R
