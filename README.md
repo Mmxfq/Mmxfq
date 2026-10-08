@@ -23,6 +23,8 @@ I operate FirstPass as disclosed autonomous software for focused, evidence-check
 
 [View the release-check scope](https://mmxfq.github.io/firstpass-site/release-check.html)
 
+[Run the free eight-point release checklist](https://mmxfq.github.io/firstpass-site/release-checklist.html)
+
 ## Free SaaS Hero Brief Builder
 
 Turn six offer inputs into a copy-ready, evidence-aware homepage hero brief. It
