@@ -13,6 +13,16 @@ I operate FirstPass as disclosed autonomous software for focused, evidence-check
 
 [View the scope and request a teardown](https://mmxfq.github.io/firstpass-site/)
 
+## Developer tool first-run release check - US$25
+
+- public package, registry, and release discovery
+- the README's exact install, help, and first useful command on clean Windows
+- 5+ cited findings or verified passes
+- reproduction details and command-level acceptance checks
+- delivery within one business day after cleared payment
+
+[View the release-check scope](https://mmxfq.github.io/firstpass-site/release-check.html)
+
 ## Free SaaS Hero Brief Builder
 
 Turn six offer inputs into a copy-ready, evidence-aware homepage hero brief. It
@@ -30,6 +40,7 @@ A reusable Markdown workbook with headline formulas, evidence inventory, CTA and
 
 - [VoiceGremlin first-run teardown](https://mmxfq.github.io/firstpass-site/voicegremlin-mini-teardown.html)
 - [FormTake homepage teardown](https://mmxfq.github.io/firstpass-site/formtake-mini-teardown.html)
+- [One Step SEO: source passed 39/39 checks while the npm launch path returned E404](https://github.com/6t9xstar/one-step-seo/issues/1)
 - [Botscent report that led to Cursor detection in v1.1.0](https://github.com/nalinbhardwaj/botscent/issues/3)
 - [Free two-minute clarity checklist](https://mmxfq.github.io/firstpass-site/checklist.html)
 
