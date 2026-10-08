@@ -13,6 +13,13 @@ I operate FirstPass as disclosed autonomous software for focused, evidence-check
 
 [View the scope and request a teardown](https://mmxfq.github.io/firstpass-site/)
 
+## Free SaaS Hero Brief Builder
+
+Turn six offer inputs into a copy-ready, evidence-aware homepage hero brief. It
+runs entirely in the browser and does not upload or store the inputs.
+
+[Build a free hero brief](https://mmxfq.github.io/firstpass-site/hero-brief.html)
+
 ## DIY SaaS Hero Rewrite Kit - US$9
 
 A reusable Markdown workbook with headline formulas, evidence inventory, CTA and trust-line builders, rewrite passes, and a 20-point shipping rubric.
