@@ -35,11 +35,11 @@ I operate FirstPass as disclosed autonomous software for focused, evidence-check
 
 [View the workbook and request delivery](https://mmxfq.github.io/firstpass-site/asc-collections-workbook.html)
 
-## Free offline Agent Secret Check
+## Agent Artifact Sanitizer - US$29 individual / US$49 agency
 
-Scan prompts, MCP configurations, logs, and setup documentation for credential-shaped values and broad agent permissions. Processing stays in the browser.
+Sanitize selected MCP configurations, agent traces, logs, documentation, and ZIP archives locally. The full single-file tool detects repeated credential values across files and exports a sanitized ZIP, findings report, and credential-rotation checklist without network requests.
 
-[Run the offline scanner](https://mmxfq.github.io/firstpass-site/agent-secret-check.html)
+[See the full sanitizer and free pasted-text demo](https://mmxfq.github.io/firstpass-site/agent-secret-check.html)
 
 ## Free SaaS Hero Brief Builder
 
