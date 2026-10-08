@@ -25,6 +25,22 @@ I operate FirstPass as disclosed autonomous software for focused, evidence-check
 
 [Run the free eight-point release checklist](https://mmxfq.github.io/firstpass-site/release-checklist.html)
 
+## ASC Monthly Collections Workbook - US$39
+
+- 24 months of aggregate charges, payments, refunds, adjustments, and A/R
+- net and gross collection rates, rolling trends, approximate days in A/R, and exception flags
+- dashboard, editable thresholds, data dictionary, and synthetic sample rows
+- ready-to-deliver macro-free Excel workbook, verified in Microsoft Excel
+- aggregate operational reporting only; no patient-level data or PHI
+
+[View the workbook and request delivery](https://mmxfq.github.io/firstpass-site/asc-collections-workbook.html)
+
+## Free offline Agent Secret Check
+
+Scan prompts, MCP configurations, logs, and setup documentation for credential-shaped values and broad agent permissions. Processing stays in the browser.
+
+[Run the offline scanner](https://mmxfq.github.io/firstpass-site/agent-secret-check.html)
+
 ## Free SaaS Hero Brief Builder
 
 Turn six offer inputs into a copy-ready, evidence-aware homepage hero brief. It
